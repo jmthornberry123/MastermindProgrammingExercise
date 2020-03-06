@@ -1,0 +1,7 @@
+C:\Users\chees\source\repos\QuadaxProgrammingExercise\QuadaxProgrammingExercise\bin\Debug\QuadaxProgrammingExercise.exe.config
+C:\Users\chees\source\repos\QuadaxProgrammingExercise\QuadaxProgrammingExercise\bin\Debug\QuadaxProgrammingExercise.exe
+C:\Users\chees\source\repos\QuadaxProgrammingExercise\QuadaxProgrammingExercise\bin\Debug\QuadaxProgrammingExercise.pdb
+C:\Users\chees\source\repos\QuadaxProgrammingExercise\QuadaxProgrammingExercise\obj\Debug\QuadaxProgrammingExercise.csprojAssemblyReference.cache
+C:\Users\chees\source\repos\QuadaxProgrammingExercise\QuadaxProgrammingExercise\obj\Debug\QuadaxProgrammingExercise.csproj.CoreCompileInputs.cache
+C:\Users\chees\source\repos\QuadaxProgrammingExercise\QuadaxProgrammingExercise\obj\Debug\QuadaxProgrammingExercise.exe
+C:\Users\chees\source\repos\QuadaxProgrammingExercise\QuadaxProgrammingExercise\obj\Debug\QuadaxProgrammingExercise.pdb
